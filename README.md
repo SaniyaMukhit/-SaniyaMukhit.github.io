@@ -1,2 +1,2 @@
-# -SaniyaMukhit.github.io
+# SaniyaMukhit.github.io
 Lab 1
